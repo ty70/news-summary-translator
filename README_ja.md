@@ -98,4 +98,4 @@ python scripts/main.py --output console   # コンソールに出力
 
 ## ✍️ 作者
 
-\[ty70](./tomoakiyokoo98@gmail.com)
+\[ty70]
