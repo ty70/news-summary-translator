@@ -98,4 +98,4 @@ It will:
 
 ## ✍️ Author
 
-\[ty70]
+\[ty70](./tomoakiyokoo98@gmail.com)
