@@ -98,4 +98,4 @@ python scripts/main.py --output console   # コンソールに出力
 
 ## ✍️ 作者
 
-\[Your Name Here]
+\[ty70]
